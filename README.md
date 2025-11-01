@@ -16,5 +16,5 @@
 *(More projects coming soon!)*
 
 ## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/ruben-lama-perez-788003198/)
-- [Email](mailto:rubenlama99@gmail.com)
+- [https://www.linkedin.com/in/ruben-lama-perez-788003198](https://www.linkedin.com/in/ruben-lama-perez-788003198/)
+- [rubenlama99@gmail.com](mailto:rubenlama99@gmail.com)

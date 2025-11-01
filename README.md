@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rubén Lama
 
-🎓 Business and Management student at the University of Barcelona, passionate about **data analysis**, **business improvement**, and **process optimization**.
+🎓 Business and Management student at the University of Barcelona, passionate about data analysis, business improvement, and process optimization.
 
 💡 I enjoy transforming data into actionable insights to support decision-making and operational efficiency. I’m especially interested in how analytical methods can help businesses streamline workflows, improve performance, and identify growth opportunities.
 

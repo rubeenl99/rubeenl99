@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Rubén Lama
 
-<!--
-**rubeenl99/rubeenl99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business and Management student at the University of Barcelona, passionate about **data analysis**, **business improvement**, and **process optimization**.
 
-Here are some ideas to get you started:
+💡 I enjoy transforming data into actionable insights to support decision-making and operational efficiency. I’m especially interested in how analytical methods can help businesses streamline workflows, improve performance, and identify growth opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I work with
+- **Python** (pandas, matplotlib, seaborn)
+- **SQL** (joins, CTEs, aggregation)
+- **Power BI** (dashboards, DAX measures, KPIs)
+- **Excel** (pivot tables, functions, VBA)
+
+## 📊 Projects
+- [Retail Sales Analysis](https://github.com/rubeenl99/Retail_Analysis) – Data cleaning, customer segmentation, and Power BI dashboard with KPIs and sales insights.
+
+*(More projects coming soon!)*
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/ruben-lama-perez-788003198/)
+- [Email](mailto:rubenlama99@gmail.com)

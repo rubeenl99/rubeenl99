@@ -14,5 +14,5 @@
 [Retail Sales Analysis](https://github.com/rubeenl99/Retail_Analysis) – Data cleaning, customer segmentation, and Power BI dashboard with KPIs and sales insights.
 
 ## 📫 Let's Connect
-[LinkedIn](https://www.linkedin.com/in/ruben-lama-perez-788003198/)
-[rubenlama99@gmail.com](mailto:rubenlama99@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ruben-lama-perez-788003198/)
+- [rubenlama99@gmail.com](mailto:rubenlama99@gmail.com)
